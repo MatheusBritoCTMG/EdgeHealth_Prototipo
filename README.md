@@ -1,4 +1,4 @@
-# 🏥 EdgeHealth
+# 🏢 EdgeHealth
 
 Projeto de software obrigatório da escola **Cotemig**, desenvolvido em grupo, com foco em soluções voltadas para redes de empresas.
 
